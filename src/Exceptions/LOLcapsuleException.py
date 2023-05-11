@@ -1,0 +1,2 @@
+class LOLcapsuleException(Exception):
+    pass
